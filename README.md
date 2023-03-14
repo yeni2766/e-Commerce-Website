@@ -7,13 +7,13 @@ This project was set in my university as a solo project, where I was expected to
 
 As a front-end developer, the project was challenging because I was mostly familiar coding on the front-end, instead of the backend and I had never coded using PHP. To complete the project, I needed to be determined to learn through courses to gain knowledge. I also had to learn SQL in order to create the database that would be used to store the data that would be later used throughout the website using PHP.
 
-#Technologies Used
+# Technologies Used
 
-HTML
-CSS
-JavaScript
-PHP
-SQL
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
 
 # Features Implemented
 User registration and login
