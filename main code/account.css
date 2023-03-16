@@ -1,0 +1,461 @@
+﻿
+
+.status {
+
+font-size:15px;
+color: green;
+padding : 15px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.g-recaptcha{
+
+position:relative;
+right: 490px;
+
+
+
+
+
+h1{
+
+position:relative; left: 610px;
+top: 40px;
+
+
+}
+
+p{
+
+position:relative; left: 560px; top : 80px;
+
+font-family: sans-serif;
+
+color : #000
+}
+
+
+
+.form1{
+position:relative;
+
+left:500px; bottom: -150px; "
+
+}
+</style>
+<style>
+
+input[type = text]{
+width : 30%;
+padding : 3px;
+border-radius: 12px  #555;
+
+}
+
+</style>
+
+<style>
+
+input[type = number] {
+
+padding : 3px;
+border-radius: 12px;
+}
+
+</style>
+
+<style>
+
+input[type = submit] {
+
+padding : 3px;
+border-radius: 12px;
+position:relative;
+left:230px;
+top:20px;
+}
+
+</style>
+
+<style>
+
+.form1{
+font-family:'Quicksand', sans-serif;
+font-weight :bold;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+<style>
+#demo{
+
+position:relative; bottom:600px;
+}
+</style>
+
+
+
+
+
+
+
+<style>
+table,th,td {
+  border : 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5px;
+}
+</style>
+
+
+
+<style>
+.header{
+ background: linear-gradient(#ECE9E6,#FFFFFF );
+}
+</style>
+<style>
+#footer{
+margin-top: 700px;
+}
+</style>
+
+<style>
+.footer-col-1{
+position: relative; top :380px; left: 120px;
+}
+</style>
+
+<style>
+.footer-col-3{
+position: relative; top:380px; left: 150px;
+}
+
+</style>
+
+<style>
+.footer-col-4{
+position: relative; top:288px; left: 320px;
+
+}
+
+</style>
+
+<style>
+.footer-col-2{
+position: relative; top :380px; left: 120px;
+}
+</style>
+<style>
+<style>
+.header .row{
+margin-top:90px ;
+}
+</style>
+<style>
+.div-2 .row{
+margin-top: -100px ;
+}
+</style>
+
+<style>
+.div-2 .row{
+height: 50px ;
+}
+</style>
+
+
+
+
+
+<style>
+.div-2{
+  background: linear-gradient(#232526,#414345 );
+}
+</style>
+<style>
+#nav1{
+font-size:14px;
+
+
+}
+</style>
+<style>
+h3{
+font-family:'Quicksand', sans-serif;
+}
+</style>
+
+
+<style>
+#p{
+
+font-family: 'Quicksand', sans-serif;
+}
+</style>
+
+
+<style>
+#p{
+
+font-family: 'Quicksand', sans-serif;
+}
+</style>
+<style>
+h1{
+font-family: 'Quicksand', sans-serif;
+
+
+
+}
+</style>
+
+<style>
+
+<style>
+#p1{
+font-family: 'Hind Siliguri';
+
+
+
+
+}
+</style>
+
+<style>
+#p1{
+color: black;
+
+
+
+
+}
+</style>
+
+<style>
+#p{
+
+color:black;
+}
+</style>
+
+<style>
+html {
+  overflow-x: initial !important;
+}
+</style>
+<style>
+
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+</style>
+<style>
+@media only screen  and (min-width : 1224px) {
+.header
+{
+width:1500px;
+position:relative; left: -100px;
+}
+}
+
+
+@media only screen  and (min-width : 1224px) {
+.row1{
+
+position:relative;right:200px;
+}
+
+
+}
+@media only screen  and (min-width : 1224px) {
+.btn{
+
+position:relative;right:1000px;
+}
+
+
+}
+
+
+
+
+<style>
+
+overflow-anchor: none;
+
+
+</style>
+
+
+<style>
+@media only screen and (max-width: 600px){
+
+nav ul{
+position:absolute;
+top:170px;
+left:0;
+background:#333;
+width: 100%;
+overflow: hidden;
+transition:max-height 0.5s;
+}
+nav ul li{
+display:block;
+margin-right: 50px;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+nav ul li a{
+color: #fff;
+
+
+
+}
+
+.navbar .logo {
+position:relative;
+
+right: 170px;
+
+
+
+}
+
+.menu-icon{
+display:block;
+cursor:pointer;
+
+}
+
+.shopping-cart{
+
+position:relative;
+
+right: 160px;
+
+}
+
+
+}
+
+</style>
+<style>
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=number] {
+  width: 30%;
+  padding: 10px;
+  margin: margin-bottom:80px;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.submit {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+ margin-left: 100px;
+ margin-top:50px;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+
+}
+
+.submit:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+
+
+/* Set a grey background color and center the text of the "sign in" section */
+.form1 {
+  background-color: # fggfff ;
+ 
+}
+</style>
+ <style>
+ .form1{
+
+ 
+}
+
+ </style>
+
+</style>
+<style>
+
+.size{
+
+position:relative;
+left:100px;
+
+}
+
+
+
+
+</style>
+<style>
+
+.size{
+
+position:relative;
+
+top:220px;
+}
+
+
+
+</style>
+<style>
+
+
+.link{
+
+text-decoration:underline;
+color:blue;
+
+}
+</style>
